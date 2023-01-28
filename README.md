@@ -1,16 +1,14 @@
-### Hi there 👋
+# Mor Romano - Automation Developer
 
-<!--
-**Toxice/Toxice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm an Automation Developer experienced with Java, Python, Selenium, Appium, REST API, Jenkins and more
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python and Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me:
+
+- Linkedin : https://www.linkedin.com/in/mor--romano/
+- eMail : toxice290@gmail.com
+
+
+- ⚡ Fun fact: I enjoy programming with the Java programming language!
